@@ -16,9 +16,6 @@
 
 A complete restaurant website built with PHP, designed for ease of management and a modern user experience.
 
-## 📫 Contact
-Feel free to explore my repositories and connect through GitHub!
-
 ## 💻 Tech Stack
 
 <div align="left">
@@ -54,6 +51,9 @@ Feel free to explore my repositories and connect through GitHub!
 ![rekis-0103's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rekis-0103&theme=highcontrast&hide_border=true)
 
 ![rekis-0103's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rekis-0103&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
+## 📫 Contact
+Feel free to explore my repositories and connect through GitHub!
 
 ---
 <!--
