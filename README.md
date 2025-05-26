@@ -1,4 +1,4 @@
-# Hi there, I'm Rekis 👋
+# Hi there, I'm Rekishii Lucy 👋
 
 ## 👨‍💻 About Me
 - 🎓 I'm a software engineering student passionate about building web applications.
@@ -19,8 +19,43 @@ A complete restaurant website built with PHP, designed for ease of management an
 ## 📫 Contact
 Feel free to explore my repositories and connect through GitHub!
 
----
+## 💻 Tech Stack
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+</div>
+
+## 📱 Social Media
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+## Stats
+
+![rekis-0103's Stats](https://github-readme-stats.vercel.app/api?username=rekis-0103&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+
+![rekis-0103's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rekis-0103&theme=highcontrast&hide_border=true)
+
+![rekis-0103's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rekis-0103&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
+---
 <!--
 **rekis-0103/rekis-0103** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
