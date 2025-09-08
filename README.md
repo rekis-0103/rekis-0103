@@ -36,14 +36,6 @@ A complete restaurant website built with PHP, designed for ease of management an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
 
-## 📱 Social Media
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /> @ggorekis
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /> @ggorekis_gaming
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> @ggorekis
-</div>
-
 ## Stats
 
 ![rekis-0103's Stats](https://github-readme-stats.vercel.app/api?username=rekis-0103&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
