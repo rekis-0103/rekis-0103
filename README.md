@@ -1,6 +1,8 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Rekishii Lucy!
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Web+Development+Enthusiast;PHP+Developer;Always+Learning+New+Technologies!&font=Roboto&size=24&duration=3000&pause=1000&color=00D9FF&center=true&width=600" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
 
@@ -25,10 +27,6 @@ class Developer {
     }
 }
 ```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div
 
 ---
 
