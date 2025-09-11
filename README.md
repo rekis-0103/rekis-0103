@@ -7,7 +7,6 @@
 ## 🚀 About Me
 
 ```php
-<?php
 class Developer {
     public $name = "Rekishii Lucy";
     public $role = "Software Engineering Student";
