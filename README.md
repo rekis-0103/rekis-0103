@@ -118,7 +118,7 @@ class Developer {
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ggorekis_gaming)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rekishiilucy)
 [![Instagram](https://img.shields.io/badge/Youtube-F38861?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Ggorekisgaming)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rekishiilucy658@gmail.com)
 
