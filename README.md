@@ -91,18 +91,16 @@ class Developer {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rekis-0103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rekis-0103&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekis-0103&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rekis-0103&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
+<div align="center"> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rekis-0103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> 
+  <img width="49%" src="https://streak-stats.demolab.com?user=rekis-0103&theme=tokyonight&hide_border=true" /> 
+</div> 
+  <div align="center"> 
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekis-0103&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  </div> 
+  <div align="center"> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rekis-0103&theme=tokyo-night&hide_border=true&area=true" width="100%"/> 
+  </div>
 
 ---
 
