@@ -59,13 +59,13 @@ class Developer {
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=php,html,css,js,python,dotnet" />
+<img src="https://skillicons.dev/icons?i=php,html,css,js,python,dotnet,flutter,cpp,java" />
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
 
 ### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio" />
 
 </div>
 
